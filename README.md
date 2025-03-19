@@ -59,7 +59,7 @@ SARDEC
   usually has less files than .nsa
 NSDEC
   Extract nscript.dat which is the game script/code
-4.0 Extracting game assets/script
+### 4.0 Extracting game assets/script
 4.1 Extract game script
   ```bash
   wine NSDEC.exe nscript.dat
@@ -72,5 +72,5 @@ NSDEC
   ```bash
   wine sardec.exe *.sar
   ```
-5.to be continued
+### 5.to be continued
 
