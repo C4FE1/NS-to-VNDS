@@ -31,7 +31,7 @@ The easiest way to use the tools for extract games achive is use the Windows bin
   ```bash
   wget http://nscripter.insani.org/downloads/nsdec.zip
   ```
-### 2.0 With that done extract all binaries and move toyour games folder
+### 2.0 With that done extract all binaries and move to your games folder
 2.1 Extract and move NSAOUT
   On Linux/POSIX
   ```bash
